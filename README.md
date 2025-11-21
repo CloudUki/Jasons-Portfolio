@@ -4,3 +4,5 @@ This portfolio is for a friend of mine whom asked me to help design and develop 
 
 # Tech Stack
 - Framework: React
+- Styling: Tailwind CSS
+- Run Time: NextJS
