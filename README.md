@@ -13,12 +13,12 @@ This portfolio is for a friend of mine whom asked me to help design and develop 
 ```
 cd my-portfolio
 ```
-4. Install the packages using the following command
+3. Install the packages using the following command
 ```
 npm install
 ```
-5. Once you are in the my-portfolio folder, run the developer instance
+4. Once you are in the my-portfolio folder, run the developer instance
 ```
 npm run dev
 ```
-6. Copy the local url that is posted in the terminal into a browser you enjoy using 
+5. Copy the local url that is posted in the terminal into a browser you enjoy using 
